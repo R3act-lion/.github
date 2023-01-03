@@ -8,6 +8,8 @@
 
 ### 1.1 프로젝트 명 : YOURTRIP
 
+<img src="https://github.com/R3act-lion/YOURTRIP/blob/main/README_img/your-trip-introduction.png?raw=true" />
+
 YOURTRIP 서비스는 지친 일상 속에서 여행을 통해 힐링을 받고 싶은 분들께 바치는 SNS입니다.  
 여행지와 각각 유명한 식당들에 대한 홍보 혹은 유저들과 소통을 하면서 자유롭게 활동이 가능합니다.
 
